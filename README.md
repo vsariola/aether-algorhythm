@@ -1,4 +1,4 @@
-# Etude de la synthèse additive - 256b bytebeat - Lovebyte 2023
+# aether algorhythm - 256b bytebeat - Lovebyte 2023
 
 This repository contains the source code for the 256b bytebeat song "aether
 algorhythm", made by pestis / brainlez Coders! and released at Lovebyte 2024
